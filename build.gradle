@@ -28,7 +28,6 @@ sonar {
 
 android {
     lintOptions {
-        abortOnError false
-        checkReleaseBuilds false
+      isAbortOnError = false
     }
 }
