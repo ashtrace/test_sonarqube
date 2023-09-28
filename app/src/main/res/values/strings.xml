@@ -6,4 +6,6 @@
     <string name="new_api_key">c1ff9b83443247ddba59d66686b93c44</string>
     <string name="username">ashtrace</string>
     <string name="password">secret_passw0rd</string>
+    <string name="aws_access_key">AKIAIOSFODNN7EXAMPLE</string>
+    <string name="aws_secret_key">wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY</string>
 </resources>
