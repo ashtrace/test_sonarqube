@@ -27,7 +27,7 @@ sonar {
 }
 
 android {
-    lintOptions {
-      isAbortOnError = false
+    lint {
+        baseline = file("lint-baseline.xml")
     }
 }
