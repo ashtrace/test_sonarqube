@@ -25,9 +25,3 @@ sonar {
     property "sonar.projectName", "test_demo"
   }
 }
-
-android {
-    lint {
-        baseline = file("lint-baseline.xml")
-    }
-}
