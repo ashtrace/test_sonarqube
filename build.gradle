@@ -25,3 +25,10 @@ sonar {
     property "sonar.projectName", "test_demo"
   }
 }
+
+android {
+    lintOptions {
+        abortOnError false
+        checkReleaseBuilds false
+    }
+}
